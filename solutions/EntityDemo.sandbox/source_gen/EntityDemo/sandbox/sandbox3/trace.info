@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="3292461007592927744" modelId="r:53255c9b-c0b6-4ba2-ad19-a9823f8c4ec8(EntityDemo.sandbox.sandbox3)">
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="6" startPosition="21" endLine="7" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="sd" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="7" startPosition="20" endLine="8" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="gd" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="8" startPosition="20" endLine="9" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="w" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="14" startPosition="35" endLine="15" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="18" startPosition="35" endLine="19" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="22" startPosition="34" endLine="23" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="26" startPosition="25" endLine="27" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="30" startPosition="25" endLine="31" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="34" startPosition="24" endLine="35" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="10" startPosition="0" endLine="12" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="AdBean#()V" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="13" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setSd#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setGd#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setW#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getSd#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getGd#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getW#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="6" startPosition="22" endLine="7" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="hodnota" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="7" startPosition="25" endLine="8" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="cislo" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="8" startPosition="20" endLine="9" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ttt" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="14" startPosition="40" endLine="15" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="18" startPosition="35" endLine="19" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="22" startPosition="36" endLine="23" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="26" startPosition="30" endLine="27" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="30" startPosition="25" endLine="31" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="34" startPosition="26" endLine="35" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="10" startPosition="0" endLine="12" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="AggBean#()V" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="13" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setHodnota#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setCislo#(I)V" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setTtt#(LEntityDemo/sandbox/sandbox3/TtBean;)V" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getHodnota#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getCislo#()I" />
+    <nodeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getTtt#()LEntityDemo/sandbox/sandbox3/TtBean;" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="6" startPosition="21" endLine="7" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ggg" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="7" startPosition="21" endLine="8" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="we" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="13" startPosition="36" endLine="14" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="17" startPosition="35" endLine="18" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="21" startPosition="26" endLine="22" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="25" startPosition="25" endLine="26" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="9" startPosition="0" endLine="11" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TtBean#()V" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="12" startPosition="0" endLine="16" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setGgg#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setWe#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getGgg#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getWe#()Ljava/lang/String;" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="11" startPosition="19" endLine="11" endPosition="19" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="14" startPosition="35" endLine="15" endPosition="20" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="18" startPosition="35" endLine="19" endPosition="20" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="22" startPosition="34" endLine="23" endPosition="19" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="26" startPosition="25" endLine="27" endPosition="14" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="30" startPosition="25" endLine="31" endPosition="14" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="34" startPosition="24" endLine="35" endPosition="13" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="10" startPosition="0" endLine="12" endPosition="3" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="13" startPosition="0" endLine="17" endPosition="0">
+      <varInfo nodeId="7947071536996693753" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="17" startPosition="0" endLine="21" endPosition="0">
+      <varInfo nodeId="7947071536996693753" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="21" startPosition="0" endLine="25" endPosition="0">
+      <varInfo nodeId="7947071536996693753" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="33" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="11" startPosition="20" endLine="11" endPosition="20" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="14" startPosition="40" endLine="15" endPosition="25" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="18" startPosition="35" endLine="19" endPosition="23" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="22" startPosition="36" endLine="23" endPosition="21" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="26" startPosition="30" endLine="27" endPosition="19" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="30" startPosition="25" endLine="31" endPosition="17" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="34" startPosition="26" endLine="35" endPosition="15" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="10" startPosition="0" endLine="12" endPosition="3" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="13" startPosition="0" endLine="17" endPosition="0">
+      <varInfo nodeId="3292461007592936361" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="17" startPosition="0" endLine="21" endPosition="0">
+      <varInfo nodeId="3292461007592936361" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="21" startPosition="0" endLine="25" endPosition="0">
+      <varInfo nodeId="3292461007592936361" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="33" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="10" startPosition="19" endLine="10" endPosition="19" />
+    <scopeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="13" startPosition="36" endLine="14" endPosition="21" />
+    <scopeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="17" startPosition="35" endLine="18" endPosition="20" />
+    <scopeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="21" startPosition="26" endLine="22" endPosition="15" />
+    <scopeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="25" startPosition="25" endLine="26" endPosition="14" />
+    <scopeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="9" startPosition="0" endLine="11" endPosition="3" />
+    <scopeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="12" startPosition="0" endLine="16" endPosition="0">
+      <varInfo nodeId="3292461007592940753" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="16" startPosition="0" endLine="20" endPosition="0">
+      <varInfo nodeId="3292461007592940753" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <unitInfo nodeId="7947071536996693753" fileName="AdBean.java" startLine="6" startPosition="0" endLine="38" endPosition="0" unitName="EntityDemo.sandbox.sandbox3.AdBean" />
+    <unitInfo nodeId="3292461007592936361" fileName="AggBean.java" startLine="6" startPosition="0" endLine="38" endPosition="0" unitName="EntityDemo.sandbox.sandbox3.AggBean" />
+    <unitInfo nodeId="3292461007592940753" fileName="TtBean.java" startLine="6" startPosition="0" endLine="29" endPosition="0" unitName="EntityDemo.sandbox.sandbox3.TtBean" />
+  </root>
+</debugInfo>
+

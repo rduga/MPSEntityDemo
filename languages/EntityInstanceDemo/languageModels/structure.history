@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="uh1j" modelUID="r:d23d7ed3-d307-4b9a-9538-e5f816551976(EntityInstanceDemo.structure)" version="-1" />
+    </dependencies>
+    <rename id="uh1j.3292461007592905034" type="CHILD" from="attributeValues" to="attributeValue" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="uh1j" modelUID="r:d23d7ed3-d307-4b9a-9538-e5f816551976(EntityInstanceDemo.structure)" version="0" />
+    </dependencies>
+    <rename id="uh1j.3292461007592905034" type="CHILD" from="attributeValue" to="attributeValues" />
+  </StructureModification>
+</history>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="9i3ljpjx9sw8597xw8jq65kwvlp021w">
+  <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+  <dep model="r:6292a806-c4b0-4465-a751-d230358f967c(EntityInstanceDemo.typesystem)" hash="-7nu8ivsqdmu0qyayn1as8t7mdjjgwky" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+  <common>
+    <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+    <dep model="r:6292a806-c4b0-4465-a751-d230358f967c(EntityInstanceDemo.typesystem)" />
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+    <file name="Language.java" />
+  </common>
+</dependencies>
+

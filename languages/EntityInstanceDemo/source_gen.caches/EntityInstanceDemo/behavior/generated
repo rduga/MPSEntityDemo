@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="4hntp2z795yipt4591zzjpx71xi3zq1">
+  <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
+  <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+  <dep model="r:552c3f3a-3327-4e04-8f73-f14eaa5a6741(EntityDemo.structure)" hash="aodt6ffc8r9qll8n7n9z6djtmul43dz" />
+  <dep model="r:5b52bbe2-3c2a-434f-a56f-c2388f6cbc67(EntityDemo.behavior)" hash="amtp6p03iogtb48toejoum2h1t7xkit" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+  <dep model="r:d23d7ed3-d307-4b9a-9538-e5f816551976(EntityInstanceDemo.structure)" hash="-5jpuhyv4hhflz7bn7rlzu5ryks1nu6c" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+  <common dependsOnNodes="true">
+    <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:552c3f3a-3327-4e04-8f73-f14eaa5a6741(EntityDemo.structure)" />
+    <dep model="r:5b52bbe2-3c2a-434f-a56f-c2388f6cbc67(EntityDemo.behavior)" />
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+    <dep model="r:d23d7ed3-d307-4b9a-9538-e5f816551976(EntityInstanceDemo.structure)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <file name="BehaviorAspectDescriptor.java" />
+    <file name="EAVExpression_BehaviorDescriptor.java" />
+    <file name="EntityAttributeValue_BehaviorDescriptor.java" />
+    <file name="EntityInstance_BehaviorDescriptor.java" />
+    <file name="InstanceRefExpression_BehaviorDescriptor.java" />
+    <file name="IntConstantExpression_BehaviorDescriptor.java" />
+    <file name="StringConstantExpression_BehaviorDescriptor.java" />
+  </common>
+</dependencies>
+

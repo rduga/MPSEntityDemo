@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="EntityDemo.sandbox.sandbox3.AdBean" file="AdBean.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="EntityDemo.sandbox.sandbox3.AggBean" file="AggBean.java">
+    <classNode dependClassName="EntityDemo.sandbox.sandbox3.TtBean" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="EntityDemo.sandbox.sandbox3.TtBean" file="TtBean.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+</dependenciesRoot>
+

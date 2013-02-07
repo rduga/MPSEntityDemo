@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="30" endPosition="0" unitName="EntityDemo.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="EntityAttribute_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="EntityDemo.behavior.EntityAttribute_BehaviorDescriptor" />
+  <unitInfo fileName="EntityResource_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="EntityDemo.behavior.EntityResource_BehaviorDescriptor" />
+  <unitInfo fileName="EntityType_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="EntityDemo.behavior.EntityType_BehaviorDescriptor" />
+  <unitInfo fileName="Entity_BehaviorDescriptor.java" startLine="9" startPosition="0" endLine="22" endPosition="0" unitName="EntityDemo.behavior.Entity_BehaviorDescriptor" />
+  <unitInfo fileName="IResourceContext_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="9" endPosition="0" unitName="EntityDemo.behavior.IResourceContext_BehaviorDescriptor" />
+  <root nodeId="3292461007592895071" modelId="r:5b52bbe2-3c2a-434f-a56f-c2388f6cbc67(EntityDemo.behavior)">
+    <nodeInfo nodeId="3292461007592895091" fileName="Entity_Behavior.java" startLine="12" startPosition="75" endLine="13" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3292461007592895071" fileName="Entity_Behavior.java" startLine="8" startPosition="30" endLine="11" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="3292461007592895071" fileName="Entity_Behavior.java" startLine="11" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="call_classname_3292461007592895086#(Ljetbrains/mps/smodel/SNode;)Ljava/lang/String;" />
+    <scopeInfo nodeId="3292461007592895073" fileName="Entity_Behavior.java" startLine="9" startPosition="43" endLine="9" endPosition="43" />
+    <scopeInfo nodeId="3292461007592895089" fileName="Entity_Behavior.java" startLine="12" startPosition="75" endLine="13" endPosition="68" />
+    <scopeInfo nodeId="3292461007592895071" fileName="Entity_Behavior.java" startLine="8" startPosition="30" endLine="11" endPosition="0">
+      <varInfo nodeId="3292461007592895071" varName="thisNode" />
+    </scopeInfo>
+    <scopeInfo nodeId="3292461007592895071" fileName="Entity_Behavior.java" startLine="11" startPosition="0" endLine="15" endPosition="0">
+      <varInfo nodeId="3292461007592895071" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="3292461007592895071" fileName="Entity_Behavior.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="EntityDemo.behavior.Entity_Behavior" />
+  </root>
+</debugInfo>
+

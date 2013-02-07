@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="TypesystemDescriptor.java" startLine="8" startPosition="0" endLine="20" endPosition="0" unitName="EntityDemo.typesystem.TypesystemDescriptor" />
+  <root nodeId="5078657706159868956" modelId="r:dbd09f3a-4199-4535-bd7e-ade5563cbc1f(EntityDemo.typesystem)">
+    <nodeInfo nodeId="5078657706159869273" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="26" startPosition="39" endLine="27" endPosition="115" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159869382" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="30" startPosition="7" endLine="31" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5078657706159869382" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="31" startPosition="60" endLine="32" endPosition="234" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="37" startPosition="46" endLine="38" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="42" startPosition="5" endLine="43" endPosition="117" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="43" startPosition="117" endLine="44" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="48" startPosition="30" endLine="49" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="20" startPosition="139" endLine="22" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="check_EntityAttributeNameUq_NonTypesystemRule#()V" />
+    <nodeInfo nodeId="5078657706159869269" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="25" startPosition="208" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Ljetbrains/mps/smodel/SNode;)Z" />
+    <nodeInfo nodeId="5078657706159869382" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="29" startPosition="21" endLine="33" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="36" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getApplicableConceptFQName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="41" startPosition="68" endLine="45" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="47" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="overrides#()Z" />
+    <nodeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="40" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableAndPattern#(Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+    <nodeInfo nodeId="5078657706159869160" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="24" startPosition="128" endLine="34" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="23" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="applyRule#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+    <scopeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="21" startPosition="58" endLine="21" endPosition="58" />
+    <scopeInfo nodeId="5078657706159869270" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="26" startPosition="39" endLine="27" endPosition="115" />
+    <scopeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="37" startPosition="46" endLine="38" endPosition="50" />
+    <scopeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="48" startPosition="30" endLine="49" endPosition="17" />
+    <scopeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="20" startPosition="139" endLine="22" endPosition="3" />
+    <scopeInfo nodeId="5078657706159869382" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="30" startPosition="7" endLine="32" endPosition="234">
+      <varInfo nodeId="5078657706159869382" varName="_reporter_2309309498" />
+      <varInfo nodeId="5078657706159869382" varName="errorTarget" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="42" startPosition="5" endLine="44" endPosition="45">
+      <varInfo nodeId="5078657706159868956" varName="b" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159869269" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="25" startPosition="208" endLine="29" endPosition="0">
+      <varInfo nodeId="5078657706159869269" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159869162" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="29" startPosition="21" endLine="33" endPosition="7" />
+    <scopeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="36" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="41" startPosition="68" endLine="45" endPosition="5" />
+    <scopeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="47" startPosition="0" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="40" startPosition="0" endLine="47" endPosition="0">
+      <varInfo nodeId="5078657706159868956" varName="argument" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159869159" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="24" startPosition="128" endLine="34" endPosition="5" />
+    <scopeInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="23" startPosition="0" endLine="36" endPosition="0">
+      <varInfo nodeId="5078657706159868956" varName="entityAttribute" />
+      <varInfo nodeId="5078657706159868956" varName="status" />
+      <varInfo nodeId="5078657706159868956" varName="typeCheckingContext" />
+    </scopeInfo>
+    <unitInfo nodeId="5078657706159869269" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="25" startPosition="185" endLine="29" endPosition="5" unitName="EntityDemo.typesystem.check_EntityAttributeNameUq_NonTypesystemRule$1" />
+    <unitInfo nodeId="5078657706159868956" fileName="check_EntityAttributeNameUq_NonTypesystemRule.java" startLine="20" startPosition="0" endLine="52" endPosition="0" unitName="EntityDemo.typesystem.check_EntityAttributeNameUq_NonTypesystemRule" />
+  </root>
+  <root nodeId="5078657706159893032" modelId="r:dbd09f3a-4199-4535-bd7e-ade5563cbc1f(EntityDemo.typesystem)">
+    <nodeInfo nodeId="5078657706159893134" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="26" startPosition="39" endLine="27" endPosition="106" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159893249" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="30" startPosition="7" endLine="31" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5078657706159893249" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="31" startPosition="60" endLine="32" endPosition="222" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="37" startPosition="46" endLine="38" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="42" startPosition="5" endLine="43" endPosition="117" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="43" startPosition="117" endLine="44" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="48" startPosition="30" endLine="49" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="20" startPosition="130" endLine="22" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="check_EntityNameUq_NonTypesystemRule#()V" />
+    <nodeInfo nodeId="5078657706159893130" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="25" startPosition="205" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="accept#(Ljetbrains/mps/smodel/SNode;)Z" />
+    <nodeInfo nodeId="5078657706159893249" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="29" startPosition="21" endLine="33" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="36" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getApplicableConceptFQName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="41" startPosition="68" endLine="45" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="47" startPosition="0" endLine="51" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="overrides#()Z" />
+    <nodeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="40" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableAndPattern#(Ljetbrains/mps/smodel/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+    <nodeInfo nodeId="5078657706159893040" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="24" startPosition="119" endLine="34" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="23" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="applyRule#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+    <scopeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="21" startPosition="49" endLine="21" endPosition="49" />
+    <scopeInfo nodeId="5078657706159893131" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="26" startPosition="39" endLine="27" endPosition="106" />
+    <scopeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="37" startPosition="46" endLine="38" endPosition="41" />
+    <scopeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="48" startPosition="30" endLine="49" endPosition="17" />
+    <scopeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="20" startPosition="130" endLine="22" endPosition="3" />
+    <scopeInfo nodeId="5078657706159893249" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="30" startPosition="7" endLine="32" endPosition="222">
+      <varInfo nodeId="5078657706159893249" varName="_reporter_2309309498" />
+      <varInfo nodeId="5078657706159893249" varName="errorTarget" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="42" startPosition="5" endLine="44" endPosition="45">
+      <varInfo nodeId="5078657706159893032" varName="b" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159893130" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="25" startPosition="205" endLine="29" endPosition="0">
+      <varInfo nodeId="5078657706159893130" varName="it" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159893042" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="29" startPosition="21" endLine="33" endPosition="7" />
+    <scopeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="36" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="41" startPosition="68" endLine="45" endPosition="5" />
+    <scopeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="47" startPosition="0" endLine="51" endPosition="0" />
+    <scopeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="40" startPosition="0" endLine="47" endPosition="0">
+      <varInfo nodeId="5078657706159893032" varName="argument" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159893033" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="24" startPosition="119" endLine="34" endPosition="5" />
+    <scopeInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="23" startPosition="0" endLine="36" endPosition="0">
+      <varInfo nodeId="5078657706159893032" varName="entity" />
+      <varInfo nodeId="5078657706159893032" varName="status" />
+      <varInfo nodeId="5078657706159893032" varName="typeCheckingContext" />
+    </scopeInfo>
+    <unitInfo nodeId="5078657706159893130" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="25" startPosition="182" endLine="29" endPosition="5" unitName="EntityDemo.typesystem.check_EntityNameUq_NonTypesystemRule$1" />
+    <unitInfo nodeId="5078657706159893032" fileName="check_EntityNameUq_NonTypesystemRule.java" startLine="20" startPosition="0" endLine="52" endPosition="0" unitName="EntityDemo.typesystem.check_EntityNameUq_NonTypesystemRule" />
+  </root>
+</debugInfo>
+

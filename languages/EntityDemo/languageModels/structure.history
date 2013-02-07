@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="ltm9" modelUID="r:552c3f3a-3327-4e04-8f73-f14eaa5a6741(EntityDemo.structure)" version="-1" />
+    </dependencies>
+    <rename id="ltm9.4692000724961336241" type="CHILD" from="entity" to="entities" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="ltm9" modelUID="r:552c3f3a-3327-4e04-8f73-f14eaa5a6741(EntityDemo.structure)" version="0" />
+    </dependencies>
+    <rename id="ltm9.4692000724961359019" type="CHILD" from="attribute" to="attributes" />
+  </StructureModification>
+</history>
+

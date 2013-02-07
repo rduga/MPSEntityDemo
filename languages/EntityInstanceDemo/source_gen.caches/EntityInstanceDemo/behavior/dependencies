@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="EntityInstanceDemo.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="EntityInstanceDemo.behavior.EntityAttributeValue_BehaviorDescriptor" />
+    <classNode dependClassName="EntityInstanceDemo.behavior.EntityInstance_BehaviorDescriptor" />
+    <classNode dependClassName="EntityInstanceDemo.behavior.InstanceRefExpression_BehaviorDescriptor" />
+    <classNode dependClassName="EntityInstanceDemo.behavior.IntConstantExpression_BehaviorDescriptor" />
+    <classNode dependClassName="EntityInstanceDemo.behavior.StringConstantExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
+  <dependency className="EntityInstanceDemo.behavior.EAVExpression_BehaviorDescriptor" file="EAVExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="EntityInstanceDemo.behavior.EntityAttributeValue_BehaviorDescriptor" file="EntityAttributeValue_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="EntityInstanceDemo.behavior.EntityInstance_BehaviorDescriptor" file="EntityInstance_BehaviorDescriptor.java">
+    <classNode dependClassName="EntityDemo.behavior.IResourceContext_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="EntityInstanceDemo.behavior.InstanceRefExpression_BehaviorDescriptor" file="InstanceRefExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="EntityInstanceDemo.behavior.EAVExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="EntityInstanceDemo.behavior.IntConstantExpression_BehaviorDescriptor" file="IntConstantExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="EntityInstanceDemo.behavior.EAVExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="EntityInstanceDemo.behavior.StringConstantExpression_BehaviorDescriptor" file="StringConstantExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="EntityInstanceDemo.behavior.EAVExpression_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+</dependenciesRoot>
+

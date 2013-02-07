@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-91lan0qpti4sbx9v30380a88s9zm50m">
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+  <dep model="r:a5ca6b4e-bf2c-4c37-afa6-5771e0b40914(EntityDemo.generator.template.main@generator)" hash="-e7qagcfof4nv45j9308fdqlmna356lo" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+  <common hash="-1t8jr5u376aiwr3di1xhbl47itpdg5i">
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+  </common>
+  <source id="3292461007592927744" hash="5s0jlbg84r7hnq38j3x171f1cb0xzyr">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+    <dep model="r:a5ca6b4e-bf2c-4c37-afa6-5771e0b40914(EntityDemo.generator.template.main@generator)" />
+    <file name="AdBean.java" />
+    <file name="AggBean.java" />
+    <file name="TtBean.java" />
+  </source>
+</dependencies>
+

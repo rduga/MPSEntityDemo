@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="5078657706159893666" modelId="r:9e1a4738-52b4-40bb-a4da-f829e4fafee1(EntityDemo.sandbox.sandbox)">
+    <nodeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="6" startPosition="22" endLine="7" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="asd" />
+    <nodeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="12" startPosition="41" endLine="13" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="16" startPosition="31" endLine="17" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="8" startPosition="0" endLine="10" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="ExxBean#()V" />
+    <nodeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="11" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAsd#(LEntityDemo/sandbox/sandbox/Entita1Bean;)V" />
+    <nodeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="15" startPosition="0" endLine="19" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAsd#()LEntityDemo/sandbox/sandbox/Entita1Bean;" />
+    <scopeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="9" startPosition="20" endLine="9" endPosition="20" />
+    <scopeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="12" startPosition="41" endLine="13" endPosition="21" />
+    <scopeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="16" startPosition="31" endLine="17" endPosition="15" />
+    <scopeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="8" startPosition="0" endLine="10" endPosition="3" />
+    <scopeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="11" startPosition="0" endLine="15" endPosition="0">
+      <varInfo nodeId="5078657706159893668" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="15" startPosition="0" endLine="19" endPosition="0" />
+    <unitInfo nodeId="5078657706159893668" fileName="ExxBean.java" startLine="6" startPosition="0" endLine="20" endPosition="0" unitName="EntityDemo.sandbox.sandbox.ExxBean" />
+  </root>
+  <root nodeId="742703604109699744" modelId="r:9e1a4738-52b4-40bb-a4da-f829e4fafee1(EntityDemo.sandbox.sandbox)">
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="6" startPosition="26" endLine="7" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="retazec" />
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="7" startPosition="25" endLine="8" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="logicPremenna" />
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="13" startPosition="40" endLine="14" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="17" startPosition="47" endLine="18" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="21" startPosition="30" endLine="22" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="25" startPosition="37" endLine="26" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="9" startPosition="0" endLine="11" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Entita1Bean#()V" />
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="12" startPosition="0" endLine="16" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setRetazec#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setLogicPremenna#(Z)V" />
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getRetazec#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLogicPremenna#()Z" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="6" startPosition="26" endLine="7" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ent1ref" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="7" startPosition="30" endLine="8" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="asd" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="8" startPosition="26" endLine="9" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="asd1" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="9" startPosition="27" endLine="10" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="ret2" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="15" startPosition="45" endLine="16" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="19" startPosition="41" endLine="20" endPosition="21" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="23" startPosition="42" endLine="24" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="27" startPosition="37" endLine="28" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="31" startPosition="35" endLine="32" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="35" startPosition="31" endLine="36" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="39" startPosition="32" endLine="40" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="43" startPosition="27" endLine="44" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="11" startPosition="0" endLine="13" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Entita2Bean#()V" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="14" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setEnt1ref#(LEntityDemo/sandbox/sandbox/Entita1Bean;)V" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAsd#(LEntityDemo/sandbox/sandbox/Entita2Bean;)V" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setAsd1#(LEntityDemo/sandbox/sandbox/Entita1Bean;)V" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setRet2#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getEnt1ref#()LEntityDemo/sandbox/sandbox/Entita1Bean;" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="34" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAsd#()LEntityDemo/sandbox/sandbox/Entita2Bean;" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="38" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getAsd1#()LEntityDemo/sandbox/sandbox/Entita1Bean;" />
+    <nodeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="42" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getRet2#()Ljava/lang/String;" />
+    <scopeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="10" startPosition="24" endLine="10" endPosition="24" />
+    <scopeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="13" startPosition="40" endLine="14" endPosition="25" />
+    <scopeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="17" startPosition="47" endLine="18" endPosition="31" />
+    <scopeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="21" startPosition="30" endLine="22" endPosition="19" />
+    <scopeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="25" startPosition="37" endLine="26" endPosition="25" />
+    <scopeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="9" startPosition="0" endLine="11" endPosition="3" />
+    <scopeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="12" startPosition="0" endLine="16" endPosition="0">
+      <varInfo nodeId="5078657706159806190" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="16" startPosition="0" endLine="20" endPosition="0">
+      <varInfo nodeId="5078657706159806190" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="12" startPosition="24" endLine="12" endPosition="24" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="15" startPosition="45" endLine="16" endPosition="25" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="19" startPosition="41" endLine="20" endPosition="21" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="23" startPosition="42" endLine="24" endPosition="22" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="27" startPosition="37" endLine="28" endPosition="22" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="31" startPosition="35" endLine="32" endPosition="19" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="35" startPosition="31" endLine="36" endPosition="15" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="39" startPosition="32" endLine="40" endPosition="16" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="43" startPosition="27" endLine="44" endPosition="16" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="11" startPosition="0" endLine="13" endPosition="3" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="14" startPosition="0" endLine="18" endPosition="0">
+      <varInfo nodeId="5078657706159811221" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="18" startPosition="0" endLine="22" endPosition="0">
+      <varInfo nodeId="5078657706159811221" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="22" startPosition="0" endLine="26" endPosition="0">
+      <varInfo nodeId="5078657706159811221" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="26" startPosition="0" endLine="30" endPosition="0">
+      <varInfo nodeId="5078657706159811221" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="34" startPosition="0" endLine="38" endPosition="0" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="38" startPosition="0" endLine="42" endPosition="0" />
+    <scopeInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="42" startPosition="0" endLine="46" endPosition="0" />
+    <unitInfo nodeId="5078657706159806190" fileName="Entita1Bean.java" startLine="6" startPosition="0" endLine="29" endPosition="0" unitName="EntityDemo.sandbox.sandbox.Entita1Bean" />
+    <unitInfo nodeId="5078657706159811221" fileName="Entita2Bean.java" startLine="6" startPosition="0" endLine="47" endPosition="0" unitName="EntityDemo.sandbox.sandbox.Entita2Bean" />
+  </root>
+</debugInfo>
+

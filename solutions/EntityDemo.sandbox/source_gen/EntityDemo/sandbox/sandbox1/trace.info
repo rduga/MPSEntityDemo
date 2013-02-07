@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeId="5078657706159894000" modelId="r:342da050-79bb-4070-9e1b-67509bae178e(EntityDemo.sandbox.sandbox1)">
+    <nodeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="6" startPosition="23" endLine="7" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="opslaaa" />
+    <nodeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="12" startPosition="40" endLine="13" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="16" startPosition="30" endLine="17" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="8" startPosition="0" endLine="10" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Exx1Bean#()V" />
+    <nodeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="11" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="setOpslaaa#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="15" startPosition="0" endLine="19" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getOpslaaa#()Ljava/lang/String;" />
+    <scopeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="9" startPosition="21" endLine="9" endPosition="21" />
+    <scopeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="12" startPosition="40" endLine="13" endPosition="25" />
+    <scopeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="16" startPosition="30" endLine="17" endPosition="19" />
+    <scopeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="8" startPosition="0" endLine="10" endPosition="3" />
+    <scopeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="11" startPosition="0" endLine="15" endPosition="0">
+      <varInfo nodeId="5078657706159894002" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="15" startPosition="0" endLine="19" endPosition="0" />
+    <unitInfo nodeId="5078657706159894002" fileName="Exx1Bean.java" startLine="6" startPosition="0" endLine="20" endPosition="0" unitName="EntityDemo.sandbox.sandbox1.Exx1Bean" />
+  </root>
+</debugInfo>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="EntityDemo.sandbox.sandbox.Entita1Bean" file="Entita1Bean.java">
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="EntityDemo.sandbox.sandbox.Entita2Bean" file="Entita2Bean.java">
+    <classNode dependClassName="EntityDemo.sandbox.sandbox.Entita1Bean" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="EntityDemo.sandbox.sandbox.ExxBean" file="ExxBean.java">
+    <classNode dependClassName="EntityDemo.sandbox.sandbox.Entita1Bean" />
+  </dependency>
+</dependenciesRoot>
+

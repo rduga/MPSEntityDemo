@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-7diotxlcjqetddti78tzofttlkvxwfc">
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+  <dep model="r:a5ca6b4e-bf2c-4c37-afa6-5771e0b40914(EntityDemo.generator.template.main@generator)" hash="-e7qagcfof4nv45j9308fdqlmna356lo" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+  <common hash="-awhjfabo3cslisdaulxx6lv34u6asa6">
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+  </common>
+  <source id="742703604109699744" hash="-dpnp7h49xhdcobxv7hsaorhto8t9knz">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+    <dep model="r:a5ca6b4e-bf2c-4c37-afa6-5771e0b40914(EntityDemo.generator.template.main@generator)" />
+    <file name="Entita1Bean.java" />
+    <file name="Entita2Bean.java" />
+  </source>
+  <source id="5078657706159893666" hash="-53hnctu49p75o08h7aqflo9or2g0egd">
+    <dep root="742703604109699744" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+    <dep model="r:a5ca6b4e-bf2c-4c37-afa6-5771e0b40914(EntityDemo.generator.template.main@generator)" />
+    <file name="ExxBean.java" />
+  </source>
+</dependencies>
+
